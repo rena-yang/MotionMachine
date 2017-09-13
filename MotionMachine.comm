@@ -1,0 +1,13 @@
+
+class IDLE:
+    pass
+
+class OFF:
+    pass
+
+class MOTIONMACHINE:
+    def master():
+        def events():
+            upRamp
+            upStairs
+            moveServo
